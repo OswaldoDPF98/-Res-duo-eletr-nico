@@ -1,0 +1,44 @@
+header{
+    background-color: #004d98;
+    padding: 8px;
+}
+
+section{
+    background-color: #a50044;
+    padding: 8px;
+}
+
+footer{
+    background-color: #004d98;
+    padding: 8px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'teko';
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'teko';
+}
+
+ul{
+    color: white;
+    text-align: center;
+    font-family: 'ubuntu';
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li{
+    color: white;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family: 'ubuntu';
+}
